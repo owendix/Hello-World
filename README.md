@@ -10,4 +10,6 @@ Terminology
 Branch: different versions of a file
 Commits: saved changes to a file
 Commit message: each commit has one - why this commit was made. Change history.
+Merge: combine pull request with other branch, after review --> can delete old branch
+Pull request: proposal of changes and request for someone to review/merge (perhaps me)
 
