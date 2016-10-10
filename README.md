@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 My tool for getting used to GitHub
 
 I am a physicist with scientific computation and data analysis experience. For 
